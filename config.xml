@@ -65,7 +65,6 @@
 	
     <!-- Third party plugins -->
 	<gap:plugin name="com.dawsonloudon.videoplayer" />
-	<gap:plugin name="com.phonegap.plugins.video" />
 	
     <!-- A list of available plugins are available at https://build.phonegap.com/plugins -->
     <!--
