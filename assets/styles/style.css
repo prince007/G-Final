@@ -105,12 +105,12 @@ body.cf{
 	background-repeat:no-repeat;
 	height:100%;
 	width:100%;
-	background-size: 100% 100%;
+	/*background-size: 100% 100%;*/
     background-repeat: no-repeat;
     background-position: 50% 50%;
 	display:block; 
      position:relative;
-     overflow:hidden;
+    
 }
 
 	 body, html, main {
@@ -170,6 +170,7 @@ header h1{
 #container{
   clear: both;
   padding-top: 20px;
+  margin: 20% 0;
 }
 
 .alt{
